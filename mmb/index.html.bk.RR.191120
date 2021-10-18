@@ -1,0 +1,237 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="en" dir="ltr"
+  xmlns:fb="http://www.facebook.com/2008/fbml"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<![endif]--><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.irbbarcelona.org/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://www.irbbarcelona.org/en" />
+<link rel="shortlink" href="http://www.irbbarcelona.org/en" />
+  <title>Maintenance | IRB Barcelona</title>
+  <link type="text/css" rel="stylesheet" href="css/style.css" media="all" />
+<style>#sliding-popup.sliding-popup-bottom{background:#0779BF;}#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text p{color:#ffffff !important;}
+</style>
+<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-30106 node-type-page i18n-en" >
+
+    <header id="navbar" role="banner" class="navbar container navbar-default">
+  <div class="container">
+    
+
+          <div class="navbar-collapse collapse" style="visibility:hidden">
+        <nav role="navigation">
+                                            <div class="region region-navigation">
+    <section id="block-menu-block-5" class="block block-menu-block clearfix">
+
+      
+  <div class="menu-block-wrapper menu-block-5 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu nav"><li class="first leaf has-children menu-mlid-693"><a href="/en/about-us"><span>About IRB</span></a></li>
+<li class="leaf has-children menu-mlid-690"><a href="/en/tech-transfer"><span>Technology Transfer</span></a></li>
+<li class="leaf has-children menu-mlid-1342"><a href="/en/phd-and-postdocs"><span>Phd and Postdocs</span></a></li>
+<li class="leaf has-children menu-mlid-1953"><a href="/en/research" title=""><span>Research</span></a></li>
+<li class="leaf has-children menu-mlid-1736"><a href="/en/donate"><span>Donate</span></a></li>
+<li class="leaf has-children menu-mlid-1270"><a href="/en/public-engagement" title=""><span>Public engagement</span></a></li>
+<li class="leaf has-children menu-mlid-692"><a href="/en/events"><span>Events</span></a></li>
+<li class="last leaf has-children menu-mlid-691"><a href="/en/news" title=""><span>News</span></a></li>
+</ul></div>
+
+</section> <!-- /.block -->
+  </div>
+                  </nav>
+      </div>
+    
+	<div class="navbar-header">
+            
+        <img src="http://www.irbbarcelona.org/sites/default/files/logo.jpg" alt="Home" />
+
+      
+      
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+	    </div>
+
+	<div class="superior-header">
+
+              <div class="region region-superior">
+    <section id="block-locale-language" class="block block-locale clearfix">
+
+ 
+</section> <!-- /.block -->
+<section id="block-block-3" class="block block-block clearfix">
+
+      
+  <p><strong>The medicine of the future</strong> starts here</p>
+
+</section> <!-- /.block -->
+<section id="block-block-4" class="block block-block clearfix">
+
+      
+  <ul>
+	<li><a href="https://www.facebook.com/irbbarcelona" target="_blank" title="Facebook"><img src="imgs/ico.face.png" alt="Facebook" /></a></li>
+       <li><a href="https://twitter.com/IRBBarcelona" target="_blank" title="Twitter"><img src="imgs/ico.twitter.png" alt="Twitter" /></a></li>
+	<li><a href="http://www.youtube.com/user/IRBBarcelona" target="_blank" title="YouTube"><img src="imgs/ico.youtube.png" alt="Youtube" /></a></li>
+	<li><a href="http://www.linkedin.com/company/irb-barcelona" target="_blank" title="Linkedin"><img src="imgs/ico.linkedin.png" alt="Linkedin" /></a></li>
+	
+</ul>
+</section> <!-- /.block -->
+  </div>
+
+ <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+
+
+	</div>
+
+
+  </div>
+</header>
+
+<div class="main-container container">
+		<section class="col-sm-12">
+	<div class="sub-container container">
+	
+
+
+
+
+			<div>
+			  		      					      			</div>
+		      <a id="main-content"></a>
+
+
+			   	</div>
+	</section>
+	
+				<div class="container">
+
+				  <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <div id="node-30106" class="node node-page  clearfix" about="/en/404" typeof="foaf:Document">
+
+      <span property="dc:title" content="Not found" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-page-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><div id="file-10571" class="file file-image file-image-jpeg">
+
+
+    
+  
+  <div class="content">
+    <img typeof="foaf:Image" src="http://www.irbbarcelona.org/sites/default/files/generic/30106/img404.jpg" alt="" />  </div>
+
+  
+</div>
+</div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div>
+<h2>Oh!</h2>
+
+<p>The following websites of the <B>Molecular Modeling and Bioinformatics</B> group from the Institute for Research in Biomedicine (IRB Barcelona) are temporarily down for maintenance. Please try again later. Apologies for the inconvenience.</p>
+<ul>
+<li>mmb.irbbarcelona.org</li>
+<li>mmb.irbbarcelona.org/(MDWeb|NAFlex|BigNASim|...)</li>
+<li>multiscalegenomics.eu | www.multiscalegenomics.eu</li>
+<li>vre.multiscalegenomics.eu</li>
+</ul>
+<hr />
+<p>Les següents pàgines web del grup <B>Molecular Modeling and Bioinfoinformatics</B> de l'Institut de Recerca Biomèdica (IRB Barcelona) estàn temporalment fora de servei per manteniment. Torneu-ho a provar més tard. Preguem disculpi les molèsties.</p>
+<ul>
+<li>mmb.irbbarcelona.org</li>
+<li>mmb.irbbarcelona.org/(MDWeb|NAFlex|BigNASim|...)</li>
+<li>multiscalegenomics.eu | www.multiscalegenomics.eu</li>
+<li>vre.multiscalegenomics.eu</li>
+</ul>
+<hr />
+<p>Las siguientes páginas web del grupo <B>Molecular Modeling and Bioinformatics</B> del Instituto de Investigación Biomédica (IRB Barcelona) están temporalmente fuera de servicio por mantenimiento. Vuelva a intentarlo más tarde. Rogamos disculpe las molestias.  </p>
+<ul>  
+<li>mmb.irbbarcelona.org</li>
+<li>mmb.irbbarcelona.org/(MDWeb|NAFlex|BigNASim|...)</li>
+<li>vre.multiscalegenomics.eu</li>
+</ul>
+</div>
+</div></div></div>  </div>
+
+  
+  
+</div>
+
+</section> <!-- /.block -->
+  </div>
+			</div>	
+			
+	</div>
+<footer class="footer container">
+    <div class="region region-footer">
+    <section id="block-block-1" class="block block-block clearfix">
+
+      
+  <div>
+<h2>Location & contact</h2>
+
+<h3>Institute for Research in Biomedicine<br />(IRB Barcelona)</h3>
+
+<p>Parc Científic de Barcelona<br />
+C/ Baldiri Reixac 10<br />
+08028 Barcelona - Spain</p>
+
+
+<p><a href="http://www.pcb.ub.edu/portal/" target="_blank"><img src="imgs/logo.pcb.jpg" alt="Logo PCB" /></a></p>
+<p class="telfax">Tel: +34 93 402 02 50 | Fax: +34 93 403 71 14<br />
+info@irbbarcelona.org</p>
+
+<ul>
+	<li><a href="https://www.facebook.com/irbbarcelona"><img src="imgs/ico.face.png" alt="Facebook" /></a></li>
+	<li><a href="http://www.linkedin.com/company/irb-barcelona"><img src="imgs/ico.linkedin.png" alt="Linkedin" /></a></li>
+       <li><a href="https://twitter.com/IRBBarcelona"><img src="imgs/ico.twitter.png" alt="Twitter" /></a></li>
+	<li><a href="http://www.youtube.com/user/IRBBarcelona"><img src="imgs/ico.youtube.png" alt="Youtube" /></a></li>
+</ul>
+</div>
+
+</section> <!-- /.block -->
+<section id="block-menu-block-1" class="block block-menu-block clearfix">
+
+      
+
+
+</section> <!-- /.block -->
+<section id="block-block-2" class="block block-block clearfix">
+
+      
+  <ul>
+	<li><span class="tx">Trustees:</span> <a href="http://www.gencat.cat/temes/cat/economia.htm" target="_blank"><img alt="Logotip del Departament d'Econimia de la Generalitat de Catalunya" src="imgs/logo.deconomia.jpg" /></a></li>
+	<li> <a href="http://www20.gencat.cat/portal/site/canalsalut" target="_blank"><img alt="Logotip del Departament de Salut de la Generalitat de Catalunya" src="imgs/logo.dsalut.jpg" /></a></li>
+	<li><a href="http://www.ub.edu/web/ub/ca/" target="_blank"><img alt="Logotip de la Universitat de Barcelona" src="imgs/logo.universitat.jpg" /></a></li>
+<li><a href="http://www.fbbva.es/TLFU/tlfu/esp/home/index.jsp" target="_blank"><img alt="Logotipo de FBBVA" src="imgs/logobbva.jpg" /></a></li>
+<li><span class="tx">Recognized as:</span><a href="http://www.idi.mineco.gob.es/portal/site/MICINN/menuitem.7eeac5cd345b4f34f09dfd1001432ea0/?vgnextoid=cba733a6368c2310VgnVCM1000001d04140aRCRD&lang_choosen=en" target="_blank"><img alt="Logotipo de Severo Ochoa" src="imgs/logosevero.ochoa.jpg" /></a></li>
+<li><a href="http://www.irbbarcelona.org/en/human-resources-excellence-in-research"><img alt="Logotipo HR Excellence" src="imgs/logo-hr-excellence-logo.jpg" /></a></li>
+</ul>
+
+</section> <!-- /.block -->
+  </div>
+</footer>
+  
+</body>
+</html>
+

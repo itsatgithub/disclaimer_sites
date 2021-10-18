@@ -1,0 +1,60 @@
+html, body
+{
+  background-color: #EEE;
+  padding: 0;
+  margin: 0;
+}
+
+h1, h2 {
+  font-family: 'Arial';
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+h3, h4, p
+{
+  font-family: 'Arial';
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+#page-wrapper
+{
+  margin: auto;
+  height: 100%;
+  min-width: 960px;
+  max-width: 1000px;
+  text-align:center;
+  background-color: #fff;
+  background: url('../img/bg.png') repeat-y scroll center top #EEE;
+}
+
+#header
+{
+  margin: auto;
+  background: url('../img/header.png') transparent no-repeat center top;
+  width: 960px;
+  height: 165px;
+  border-bottom: 5px solid #ED4D24;
+}
+
+#gear-wrapper
+{
+  background: url('../img/gear.png') no-repeat center;
+  width: 80%;
+  height: 150px;
+  margin: auto;
+}
+
+#message
+{
+  width: 960px;
+  background: url("../img/bg_page.png") repeat-x scroll 0px 0px #FFF;
+  margin: auto;
+  padding-top: 5%;
+}
+
+#send-email
+{
+  padding: 5px;
+}
